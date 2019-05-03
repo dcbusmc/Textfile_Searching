@@ -1,0 +1,17 @@
+Hello =)
+This is a sample test file.
+Please feel free to search me for any words you like!
+The words may or may not be here, but only you can find them.
+
+
+Just putting some extra whitespace in there to see how it goes.
+
+; : " ' \ | ? / . > , < + = - _ ) ( & * ^ % $ # @ !
+
+And some symbols too! Why not?
+
+Mess AROUND with SOME CapITALization MayBE AND see if that DOES something?
+
+OK, enough text now.
+
+Goodbye!
